@@ -6,4 +6,4 @@ aliases = ["about-us", "about-me", "contact"]
 author = "TheHolyTachanka"
 +++
 
-Im a privacy advocate, @Soviet-Linux dev, open source developer and supporter, passionate Rustacean from Bulgaria
+I am a privacy advocate, software minimalist, [Soviet-Linux](sovietlinux.ml) developer, open source developer and supporter, and passionate Rustacean from Bulgaria.

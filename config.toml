@@ -120,6 +120,7 @@ name = "Masstodon"
 icon = "fa fa-2x fa-twitter"
 weight = 3
 url = "https://fosstodon.org/@TheHolyTachanka"
+rel = "me"
 
 [[params.social]]
 name = "RSS"
